@@ -2,7 +2,7 @@
 
 Briefly summarize the requirements and goals of the app you developed. What user needs was this app designed to address?
 
-The requirements for the app I developed included creating an account, inputting goal weight and daily weight, and if desired granting permission for sms notifications. The goal of the app was for users to keep track of their daily weights. Tracking a daily weight and seeing progress through a timeline in the table would keep the users motivated to loosing weight and using the app. 
+The requirements for the app I developed included creating an account, inputting goal weight and daily weight, and if desired granting permission for SMS notifications. The goal of the app was for users to keep track of their daily weights. Tracking a daily weight and seeing progress through a timeline in the table would keep the users motivated to loosing weight and using the app. 
 
 What screens and features were necessary to support user needs and produce a user-centered UI for the app? How did your UI designs keep users in mind? Why were your designs successful?
 
@@ -18,5 +18,9 @@ With every change in code I ran the app in the medium phone emulator to test fun
 
 Consider the full app design and development process from initial planning to finalization. Where did you have to innovate to overcome a challenge?
 
+From plan to finalization I only had to figure out one major challenge. The challenge was taking my simple xml and java files and adding databases to the project. I had two add 3 new java files and one new interface to turn my project fully functional and not a simple display.
 
 In what specific component of your mobile app were you particularly successful in demonstrating your knowledge, skills, and experience?
+
+This was my very first app created! Once I added the databases I was able to show my experience with CRUD. CRUD was seen on the WeightTracker screen with being able to create a new entry, read the entry on the table once added, update weight by 0.5 lbs if needed, and the X on the table to delete an entry.
+
